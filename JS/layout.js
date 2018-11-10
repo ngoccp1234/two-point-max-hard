@@ -1,4 +1,4 @@
-var MY_API = 'https://2-dot-backup-server-002.appspot.com/_api/v2/songs/detail';
+var MY_API = 'https://2-dot-backup-server-001.appspot.com/_api/v2/songs/detail';
 var currentSong;
 document.addEventListener('DOMContentLoaded', function () {
     var url = new URL(window.location.href);

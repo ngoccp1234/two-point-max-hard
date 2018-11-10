@@ -1,4 +1,4 @@
-var LOGIN_API = 'https://2-dot-backup-server-002.appspot.com/_api/v2/members/authentication';
+var LOGIN_API = 'https://2-dot-backup-server-001.appspot.com/_api/v2/members/authentication';
 
 document.addEventListener('DOMContentLoaded', function () {
     var loginForm = document.forms['login-form'];

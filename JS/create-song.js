@@ -1,4 +1,4 @@
-var CREATE_SONG_API = 'https://2-dot-backup-server-002.appspot.com/_api/v2/songs';
+var CREATE_SONG_API = 'https://2-dot-backup-server-001.appspot.com/_api/v2/songs';
 
 document.addEventListener('DOMContentLoaded', function () {
     var songForm = document.forms['song-form'];

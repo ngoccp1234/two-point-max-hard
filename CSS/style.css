@@ -123,9 +123,10 @@ body {
     width: 40%;
     padding-top: 0.5%;
     font-weight: bold;
+
 }
 #play-song{
-    background: rgba(108,134,249,0.6);
+    background: rgba(70, 64, 74, 0.6);
     position: fixed;
     bottom: 0;
     width: 100%;

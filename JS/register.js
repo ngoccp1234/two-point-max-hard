@@ -1,4 +1,4 @@
-var REGISTER_API = 'https://2-dot-backup-server-002.appspot.com/_api/v2/members';
+var REGISTER_API = 'https://2-dot-backup-server-001.appspot.com/_api/v2/members';
 
 document.addEventListener('DOMContentLoaded', function () {
     var registerForm = document.forms['register-form'];
